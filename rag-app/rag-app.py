@@ -1,3 +1,5 @@
+#This code implements RAG where index was built within the AI Foundry 
+
 import os
 from dotenv import load_dotenv
 from azure.identity import DefaultAzureCredential
